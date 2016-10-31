@@ -15,6 +15,7 @@ import javax.swing.JLabel;
 import javax.swing.ImageIcon;
 
 public class Ventana extends JFrame {
+	
 
 	/**
 	 * 
