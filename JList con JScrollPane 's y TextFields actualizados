@@ -1,4 +1,7 @@
-       //CREAMOS LA LIST1
+     //QUITAR CUANDO HAGA PULL: LIST1, LIST2, TEXT1, TEXT2
+     
+     
+     //CREAMOS LA LIST1
             JList list1 = new JList();
             list1.setToolTipText("");
             list1.setBounds(37, 68, 140, 203);
@@ -9,9 +12,6 @@
                 scrollPane.setBounds(37, 68, 140, 203);
                 contentPane.add(scrollPane);
                 
-              
-           
-
               //CREAMOS LA LIST2
             JList list2 = new JList();
             list2.setBounds(324, 68, 140, 203);
